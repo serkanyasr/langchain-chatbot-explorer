@@ -9,7 +9,7 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/serkanyasr/langchain-chatbot-explorer.git
-    cd YOUR_REPO
+    cd langchain-chatbot-explorer
     ```
 
 2. **Install Dependencies:**
