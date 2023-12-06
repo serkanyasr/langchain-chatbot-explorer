@@ -42,6 +42,12 @@ Follow these steps to set up and run the project:
     streamlit run app.py
     ```
 
+
+
+https://github.com/serkanyasr/langchain-chatbot-explorer/assets/80819652/4445dd74-b3fc-4a62-a0ad-b66c7de246ae
+
+
+
 ## Project Structure
 
 - `download_docs.py`: Script to download Langchain documents.
